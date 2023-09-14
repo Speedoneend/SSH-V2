@@ -34,7 +34,7 @@ servermessage="<h4><font color='red'>
  GCP SERVER BY ︵✰𝙎𝙋𝙀𝙀𝘿-𝙂𝘾𝙋࿐
 </font></h4>
 <h3><font color='red'>
-▬▬▬▬▬▬▬▬✿𝙎𝙋𝙀𝙀𝘿✿▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬✿𝙎𝙋𝙀𝙀𝘿✿▬▬▬▬▬▬
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
