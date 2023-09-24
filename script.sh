@@ -27,14 +27,15 @@ dias="2"
 # h6 သည် = စာလုံးအသေး ဖြစ်သည်
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
-servermessage="<h4><font color='red'>
-▬▬▬▬▬▬▬▬✿𝙎𝙋𝙀𝙀𝘿✿▬▬▬▬▬▬▬▬
-</font></h4>
-<h4><font color='cyan'>
- GCP SERVER BY ︵✰𝙎𝙋𝙀𝙀𝘿-𝙂𝘾𝙋࿐
-</font></h4>
-<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿𝙎𝙋𝙀𝙀𝘿✿▬▬▬▬▬▬
+servermessage="<h3><font color='green'>
+▬▬▬▬❖𝙒𝙀𝙇𝘾𝙊𝙈𝙀❖▬▬▬▬▬
+</font></h3>
+<h3><font color='cyan'> 
+🅖🅒🅟🇸🇬ⓈⒾⓃⒼⒶⓅⓄⓇⒺ🇸🇬
+✿𝐏𝐑𝐄𝐌𝐈𝐔𝐌✿𝐒𝐄𝐑𝐕𝐄𝐑✿𝐅𝐑𝐄𝐄✿
+</font></h3>
+<h3><font color='green'>
+▬▬▬▬❖𝙒𝙀𝙇𝘾𝙊𝙈𝙀❖▬▬▬▬▬
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
